@@ -3,12 +3,12 @@
   <groupId>dataclay</groupId>
   <artifactId>dataclay</artifactId>
   <versioning>
-    <release>class</release>
+    <release>trunk</release>
     <versions>
       <version>1.0</version>
       <version>trunk</version>
       <version>class</version>
     </versions>
-    <lastUpdated>20190304143855</lastUpdated>
+    <lastUpdated>20190304151459</lastUpdated>
   </versioning>
 </metadata>
