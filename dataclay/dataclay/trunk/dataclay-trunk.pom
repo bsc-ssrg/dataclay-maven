@@ -5,7 +5,7 @@
 	<!-- Project info -->
 	<groupId>dataClay</groupId>
 	<artifactId>dataClay</artifactId>
-	<version>class</version>
+	<version>trunk</version>
 	<name>dataClay</name>
 	<description>Next generation object storage</description>
 	<url>https://storage.bsc.es/gitlab/object_storage/poas</url>
